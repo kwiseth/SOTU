@@ -1,5 +1,7 @@
 #!/home/kelli/dev/git-repo/compling/dated_filenames.py
-"""Script to rename the corpus files so that they include the year of SOU. """
+"""Script to rename the corpus files so that they include the year of the state of
+the union (SOU) address. This script is one of many preliminary data cleanup scripts
+for a diachronic linguistic analysis of U.S. presidential speeches."""
 
 __author__ = """Kelli Wiseth (kelli@alameda-tech-lab.com)"""
 
