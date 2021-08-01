@@ -1,4 +1,4 @@
-#!/home/kelli/anaconda3/envs/ling/bin/python
+#!/home/kelli/dev/git-repo/compling/dated_filenames.py
 """Script to rename the corpus files so that they include the year of SOU. """
 
 __author__ = """Kelli Wiseth (kelli@alameda-tech-lab.com)"""
