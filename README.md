@@ -6,4 +6,5 @@ Computational linguistics projects from SJSU days, reworked in 2021
 1. Clean up this mess.
 2. Write decent commments for each python script.
 3. Talk to Kelli about these changes.
+4. And then eat lunch!
 
