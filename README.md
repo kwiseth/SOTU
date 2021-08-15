@@ -1,4 +1,6 @@
-# SOTU (State of the Union speeches, linguistic analyses)
+# SOTU
+### State of the Union speeches, linguistic analyses
+
 These Python scripts handle the preliminary file clean up for my State of 
 the Union (SOTU) project. [TODO: Add details about the goals of this project]
 
