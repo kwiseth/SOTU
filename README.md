@@ -4,7 +4,7 @@
 These Python scripts handle the preliminary file clean up for my State of 
 the Union (SOTU) project. [TODO: Add details about the goals of this project]
 
-From [Internet Archive](http://archive.org), I downloaded all available SOTU text files to use as my corpus. Some of the files contained text of all speeches for a given President, while others were individual files already. IIRC, I might also have obtained some files from the [NLTK corpora (state_union)](http://nltk.org), which covers 1945-2004. The `extractor.py` script extracts each speech into its own file. After that, the `dated_filenames.py` opens each of these single files and extracts the date of the SOTU speech from the text file, then creates a new file with the year as part of the filename. 
+From [Internet Archive](http://archive.org), I downloaded all available SOTU text files to use as my corpus. Some of the files contained text of all speeches for a given President, while others were individual files already. IIRC, I might also have obtained some files from the [NLTK corpora (state_union)](http://www.nltk.org/nltk_data/), which covers 1945-2004. The `extractor.py` script extracts each speech into its own file. After that, the `dated_filenames.py` opens each of these single files and extracts the date of the SOTU speech from the text file, then creates a new file with the year as part of the filename. 
 
 
 There's still a lot of clean up and data prep work to do.
